@@ -5,7 +5,7 @@
 * [Contents](#content)
 
 ## General Info
-This browser based web application to ...
+*Hi my name is Devon Bui. I'm excited about this project because I get to collaborate with other people.
 	
 ## Technologies
 Technologies used for this project:
