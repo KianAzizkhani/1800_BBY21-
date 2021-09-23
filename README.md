@@ -5,7 +5,7 @@
 * [Contents](#content)
 
 ## General Info
-This browser based web application to ...
+*Hi my name is Kian Azizkhani. I'm excited about this project because I get to learn how to use git better.
 	
 ## Technologies
 Technologies used for this project:
