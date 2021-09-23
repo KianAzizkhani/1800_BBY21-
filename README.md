@@ -6,6 +6,8 @@
 
 ## General Info
 *Hi my name is Kian Azizkhani. I'm excited about this project because I get to learn how to use git better.
+This browser based web application to ...
+*This is Tyler, over
 	
 ## Technologies
 Technologies used for this project:
